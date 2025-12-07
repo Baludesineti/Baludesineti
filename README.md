@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Balu Desineti
-- 👀 I’m interested in Data analytics,Data Engineer,Data Science
-- 🌱 I’m currently learning EDA
+- 👀 I’m interested in Data analytics
+- 🌱 I’m currently Working as MIS Executive
 - 💞️ I’m looking to collaborate on real time work experience
 - 📫 How to reach me desinetibalu@gmail.com
 
